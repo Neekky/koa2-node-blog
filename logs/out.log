@@ -1,0 +1,22 @@
+2022-06-05 19:47:52: chrome 占比 0%
+2022-06-05 19:53:51: chrome 占比 0%
+2022-06-05 19:54:02: chrome 占比 0%
+2022-06-05 19:56:19: chrome 占比 0%
+2022-06-05 19:56:25:   <-- GET /
+2022-06-05 19:56:25: GET / - 470ms
+2022-06-05 19:56:25:   --> GET / 200 476ms 185b
+2022-06-05 19:56:25:   <-- GET /stylesheets/style.css
+2022-06-05 19:56:25:   --> GET /stylesheets/style.css 200 5ms 111b
+2022-06-05 19:56:39:   <-- GET /api/blog/list
+2022-06-05 19:56:39: GET /api/blog/list - 15ms
+2022-06-05 19:56:39:   --> GET /api/blog/list 200 17ms 3.28kb
+2022-06-05 19:57:42: chrome 占比 0%
+2022-06-05 19:57:45:   <-- GET /api/blog/list
+2022-06-05 19:57:45:   xxx GET /api/blog/list 500 8ms -
+2022-06-05 19:57:46:   <-- GET /api/blog/list
+2022-06-05 19:57:46:   xxx GET /api/blog/list 500 2ms -
+2022-06-05 19:58:54:   <-- GET /api/blog/list
+2022-06-05 19:58:54:   xxx GET /api/blog/list 500 1ms -
+2022-06-05 19:58:58:   <-- GET /api/blog/detail?id=8
+2022-06-05 19:58:58: GET /api/blog/detail?id=8 - 16ms
+2022-06-05 19:58:58:   --> GET /api/blog/detail?id=8 200 18ms 122b

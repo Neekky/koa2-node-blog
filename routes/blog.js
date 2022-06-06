@@ -12,10 +12,12 @@ const { SuccessModel, ErrorModel } = require("../model/resModel");
 router.prefix("/api/blog");
 
 router.get("/list", async function (ctx, next) {
+  throw new Error("测试出错")
   if (ctx.query.isadmin) {
     const loginCheckRes = await loginCheck(ctx);
     if (loginCheckRes) {
-      // 未登录
+      // 未登录噼噼啪啪铺铺、】、
+      
       ctx.body = loginCheckRes;
       return;
     }

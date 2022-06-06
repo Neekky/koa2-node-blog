@@ -1,0 +1,336 @@
+2022-06-05 19:57:38: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:38:   return throw new Error("测试出错")
+2022-06-05 19:57:38:          ^^^^^
+2022-06-05 19:57:38: 
+2022-06-05 19:57:38: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:38:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:38:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:38:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:38:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:38:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:38:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:38:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:38:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:38:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:38:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:38:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:38:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:38:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:38:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:38:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:38:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:38: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:38:   return throw new Error("测试出错")
+2022-06-05 19:57:38:          ^^^^^
+2022-06-05 19:57:38: 
+2022-06-05 19:57:38: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:38:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:38:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:38:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:38:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:38:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:38:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:38:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:38:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:38:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:38:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:38:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:38:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:38:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:38:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:38:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:38:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:39: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:39:   return throw new Error("测试出错")
+2022-06-05 19:57:39:          ^^^^^
+2022-06-05 19:57:39: 
+2022-06-05 19:57:39: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:39:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:39:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:39:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:39:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:39:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:39:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:39:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:39:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:39:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:39:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:39:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:39:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:39:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:39:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:39:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:39:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:39: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:39:   return throw new Error("测试出错")
+2022-06-05 19:57:39:          ^^^^^
+2022-06-05 19:57:39: 
+2022-06-05 19:57:39: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:39:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:39:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:39:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:39:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:39:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:39:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:39:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:39:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:39:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:39:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:39:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:39:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:39:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:39:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:39:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:39:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:40: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:40:   return throw new Error("测试出错")
+2022-06-05 19:57:40:          ^^^^^
+2022-06-05 19:57:40: 
+2022-06-05 19:57:40: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:40:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:40:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:40:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:40:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:40:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:40:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:40:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:40:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:40:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:40:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:40:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:40:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:40:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:40:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:40:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:40:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:40: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:40:   return throw new Error("测试出错")
+2022-06-05 19:57:40:          ^^^^^
+2022-06-05 19:57:40: 
+2022-06-05 19:57:40: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:40:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:40:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:40:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:40:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:40:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:40:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:40:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:40:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:40:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:40:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:40:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:40:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:40:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:40:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:40:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:40:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:40: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:40:   return throw new Error("测试出错")
+2022-06-05 19:57:40:          ^^^^^
+2022-06-05 19:57:40: 
+2022-06-05 19:57:40: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:40:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:40:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:40:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:40:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:40:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:40:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:40:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:40:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:40:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:40:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:40:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:40:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:40:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:40:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:40:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:40:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:41: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:41:   return throw new Error("测试出错")
+2022-06-05 19:57:41:          ^^^^^
+2022-06-05 19:57:41: 
+2022-06-05 19:57:41: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:41:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:41:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:41:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:41:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:41:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:41:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:41:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:41:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:41:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:41:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:41:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:41:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:41:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:41:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:41:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:41:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:41: /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15
+2022-06-05 19:57:41:   return throw new Error("测试出错")
+2022-06-05 19:57:41:          ^^^^^
+2022-06-05 19:57:41: 
+2022-06-05 19:57:41: SyntaxError: Unexpected token 'throw'
+2022-06-05 19:57:41:     at Object.compileFunction (node:vm:352:18)
+2022-06-05 19:57:41:     at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+2022-06-05 19:57:41:     at Module._compile (node:internal/modules/cjs/loader:1067:27)
+2022-06-05 19:57:41:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:41:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:41:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:41:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:41:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:41:     at require (node:internal/modules/cjs/helpers:102:18)
+2022-06-05 19:57:41:     at Object.<anonymous> (/Users/cengchao/Study/node-koa2-blog/app.js:18:14)
+2022-06-05 19:57:41:     at Module._compile (node:internal/modules/cjs/loader:1103:14)
+2022-06-05 19:57:41:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+2022-06-05 19:57:41:     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-06-05 19:57:41:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-06-05 19:57:41:     at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-06-05 19:57:41:     at Module.Hook._require.Module.require (/Users/cengchao/node_modules/require-in-the-middle/index.js:80:39)
+2022-06-05 19:57:45: server error Error: 测试出错
+2022-06-05 19:57:45:     at /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15:9
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+2022-06-05 19:57:45:     at next (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:45:18)
+2022-06-05 19:57:45:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:346:16
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+2022-06-05 19:57:45:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:36:12
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:351:31)
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+2022-06-05 19:57:45:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:57:45:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:280:15
+2022-06-05 19:57:45:     at Generator.next (<anonymous>)
+2022-06-05 19:57:45:     at step (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:191)
+2022-06-05 19:57:45:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:361 {
+2022-06-05 19:57:45:   request: {
+2022-06-05 19:57:45:     method: 'GET',
+2022-06-05 19:57:45:     url: '/api/blog/list',
+2022-06-05 19:57:45:     header: {
+2022-06-05 19:57:45:       host: 'localhost:9999',
+2022-06-05 19:57:45:       connection: 'keep-alive',
+2022-06-05 19:57:45:       'cache-control': 'max-age=0',
+2022-06-05 19:57:45:       'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
+2022-06-05 19:57:45:       'sec-ch-ua-mobile': '?0',
+2022-06-05 19:57:45:       'sec-ch-ua-platform': '"macOS"',
+2022-06-05 19:57:45:       'upgrade-insecure-requests': '1',
+2022-06-05 19:57:45:       'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
+2022-06-05 19:57:45:       accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+2022-06-05 19:57:45:       'sec-fetch-site': 'none',
+2022-06-05 19:57:45:       'sec-fetch-mode': 'navigate',
+2022-06-05 19:57:45:       'sec-fetch-user': '?1',
+2022-06-05 19:57:45:       'sec-fetch-dest': 'document',
+2022-06-05 19:57:45:       'accept-encoding': 'gzip, deflate, br',
+2022-06-05 19:57:45:       'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+2022-06-05 19:57:45:     }
+2022-06-05 19:57:45:   },
+2022-06-05 19:57:45:   response: {
+2022-06-05 19:57:45:     status: 404,
+2022-06-05 19:57:45:     message: 'Not Found',
+2022-06-05 19:57:45:     header: [Object: null prototype] {}
+2022-06-05 19:57:45:   },
+2022-06-05 19:57:45:   app: { subdomainOffset: 2, proxy: false, env: 'production' },
+2022-06-05 19:57:45:   originalUrl: '/api/blog/list',
+2022-06-05 19:57:45:   req: '<original node req>',
+2022-06-05 19:57:45:   res: '<original node res>',
+2022-06-05 19:57:45:   socket: '<original node socket>'
+2022-06-05 19:57:45: }
+2022-06-05 19:57:46: server error Error: 测试出错
+2022-06-05 19:57:46:     at /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15:9
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+2022-06-05 19:57:46:     at next (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:45:18)
+2022-06-05 19:57:46:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:346:16
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+2022-06-05 19:57:46:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:36:12
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:351:31)
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+2022-06-05 19:57:46:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:57:46:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:280:15
+2022-06-05 19:57:46:     at Generator.next (<anonymous>)
+2022-06-05 19:57:46:     at step (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:191)
+2022-06-05 19:57:46:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:361 {
+2022-06-05 19:57:46:   request: {
+2022-06-05 19:57:46:     method: 'GET',
+2022-06-05 19:57:46:     url: '/api/blog/list',
+2022-06-05 19:57:46:     header: {
+2022-06-05 19:57:46:       host: 'localhost:9999',
+2022-06-05 19:57:46:       connection: 'keep-alive',
+2022-06-05 19:57:46:       'cache-control': 'max-age=0',
+2022-06-05 19:57:46:       'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
+2022-06-05 19:57:46:       'sec-ch-ua-mobile': '?0',
+2022-06-05 19:57:46:       'sec-ch-ua-platform': '"macOS"',
+2022-06-05 19:57:46:       'upgrade-insecure-requests': '1',
+2022-06-05 19:57:46:       'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
+2022-06-05 19:57:46:       accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+2022-06-05 19:57:46:       'sec-fetch-site': 'none',
+2022-06-05 19:57:46:       'sec-fetch-mode': 'navigate',
+2022-06-05 19:57:46:       'sec-fetch-user': '?1',
+2022-06-05 19:57:46:       'sec-fetch-dest': 'document',
+2022-06-05 19:57:46:       'accept-encoding': 'gzip, deflate, br',
+2022-06-05 19:57:46:       'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+2022-06-05 19:57:46:     }
+2022-06-05 19:57:46:   },
+2022-06-05 19:57:46:   response: {
+2022-06-05 19:57:46:     status: 404,
+2022-06-05 19:57:46:     message: 'Not Found',
+2022-06-05 19:57:46:     header: [Object: null prototype] {}
+2022-06-05 19:57:46:   },
+2022-06-05 19:57:46:   app: { subdomainOffset: 2, proxy: false, env: 'production' },
+2022-06-05 19:57:46:   originalUrl: '/api/blog/list',
+2022-06-05 19:57:46:   req: '<original node req>',
+2022-06-05 19:57:46:   res: '<original node res>',
+2022-06-05 19:57:46:   socket: '<original node socket>'
+2022-06-05 19:57:46: }
+2022-06-05 19:58:54: server error Error: 测试出错
+2022-06-05 19:58:54:     at /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15:9
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+2022-06-05 19:58:54:     at next (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:45:18)
+2022-06-05 19:58:54:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:346:16
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+2022-06-05 19:58:54:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:36:12
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:351:31)
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+2022-06-05 19:58:54:     at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+2022-06-05 19:58:54:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:280:15
+2022-06-05 19:58:54:     at Generator.next (<anonymous>)
+2022-06-05 19:58:54:     at step (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:191)
+2022-06-05 19:58:54:     at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:361 {
+2022-06-05 19:58:54:   request: {
+2022-06-05 19:58:54:     method: 'GET',
+2022-06-05 19:58:54:     url: '/api/blog/list',
+2022-06-05 19:58:54:     header: {
+2022-06-05 19:58:54:       host: 'localhost:9999',
+2022-06-05 19:58:54:       connection: 'keep-alive',
+2022-06-05 19:58:54:       'cache-control': 'max-age=0',
+2022-06-05 19:58:54:       'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
+2022-06-05 19:58:54:       'sec-ch-ua-mobile': '?0',
+2022-06-05 19:58:54:       'sec-ch-ua-platform': '"macOS"',
+2022-06-05 19:58:54:       'upgrade-insecure-requests': '1',
+2022-06-05 19:58:54:       'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
+2022-06-05 19:58:54:       accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+2022-06-05 19:58:54:       'sec-fetch-site': 'none',
+2022-06-05 19:58:54:       'sec-fetch-mode': 'navigate',
+2022-06-05 19:58:54:       'sec-fetch-user': '?1',
+2022-06-05 19:58:54:       'sec-fetch-dest': 'document',
+2022-06-05 19:58:54:       'accept-encoding': 'gzip, deflate, br',
+2022-06-05 19:58:54:       'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+2022-06-05 19:58:54:     }
+2022-06-05 19:58:54:   },
+2022-06-05 19:58:54:   response: {
+2022-06-05 19:58:54:     status: 404,
+2022-06-05 19:58:54:     message: 'Not Found',
+2022-06-05 19:58:54:     header: [Object: null prototype] {}
+2022-06-05 19:58:54:   },
+2022-06-05 19:58:54:   app: { subdomainOffset: 2, proxy: false, env: 'production' },
+2022-06-05 19:58:54:   originalUrl: '/api/blog/list',
+2022-06-05 19:58:54:   req: '<original node req>',
+2022-06-05 19:58:54:   res: '<original node res>',
+2022-06-05 19:58:54:   socket: '<original node socket>'
+2022-06-05 19:58:54: }

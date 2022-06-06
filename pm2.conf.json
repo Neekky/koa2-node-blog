@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "name": "pm2-koa-blog",
+    "script": "bin/www.js",
+    "watch": true,
+    "ignore_watch": ["node_modules", "logs"],
+    "error_file": "logs/err.log",
+    "out_file": "logs/out.log",
+    "log_date_format": "YYYY-MM-DD HH:mm:ss",
+    "instances": 4
+  }
+}

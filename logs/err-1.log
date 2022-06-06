@@ -1,0 +1,48 @@
+2022-06-06 16:16:55: server error Error: 测试出错
+    at /Users/cengchao/Study/node-koa2-blog/routes/blog.js:15:9
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:45:18)
+    at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:44:32)
+    at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/cengchao/Study/node-koa2-blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/cengchao/Study/node-koa2-blog/node_modules/koa-generic-session/lib/session.js:3:361 {
+  request: {
+    method: 'GET',
+    url: '/api/blog/list',
+    header: {
+      host: 'localhost:9999',
+      connection: 'keep-alive',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {}
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/api/blog/list',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+}
