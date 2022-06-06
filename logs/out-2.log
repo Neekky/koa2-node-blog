@@ -42,3 +42,5 @@
 2022-06-06 16:17:06:   xxx GET /api/blog/list 500 1ms -
 2022-06-06 16:17:06:   <-- GET /api/blog/list
 2022-06-06 16:17:06:   xxx GET /api/blog/list 500 0ms -
+2022-06-06 18:18:21: chrome 占比 0%
+2022-06-06 18:18:31: chrome 占比 0%
