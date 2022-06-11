@@ -7,3 +7,416 @@
 2022-06-06 16:16:12:   --> GET /favicon.ico 404 5ms -
 2022-06-06 18:18:22: chrome 占比 0%
 2022-06-06 18:18:31: chrome 占比 0%
+2022-06-06 18:18:42: chrome 占比 0%
+2022-06-06 18:18:45: chrome 占比 0%
+2022-06-06 18:19:41: chrome 占比 0%
+2022-06-06 18:20:05: chrome 占比 0%
+2022-06-06 18:21:00: chrome 占比 0%
+2022-06-06 18:21:05: chrome 占比 0%
+2022-06-07 16:07:16: chrome 占比 0%
+2022-06-08 14:07:48: chrome 占比 0%
+2022-06-08 17:46:03: chrome 占比 0%
+2022-06-09 01:37:08:   <-- GET /
+2022-06-09 01:37:08: GET / - 298ms
+2022-06-09 01:37:08:   --> GET / 200 315ms 185b
+2022-06-09 01:37:50:   <-- GET /
+2022-06-09 01:37:50: GET / - 19ms
+2022-06-09 01:37:50:   --> GET / 200 22ms 185b
+2022-06-09 01:37:52:   <-- GET /en/main.js
+2022-06-09 01:37:52: GET /en/main.js - 1ms
+2022-06-09 01:37:52:   --> GET /en/main.js 404 2ms -
+2022-06-09 01:37:52:   <-- GET /login.html
+2022-06-09 01:37:52: GET /login.html - 1ms
+2022-06-09 01:37:52:   --> GET /login.html 404 2ms -
+2022-06-09 01:37:54:   <-- GET /xmldata?item=All
+2022-06-09 01:37:54: GET /xmldata?item=All - 1ms
+2022-06-09 01:37:54:   --> GET /xmldata?item=All 404 2ms -
+2022-06-09 01:37:56:   <-- GET /admin.back
+2022-06-09 01:37:56: GET /admin.back - 1ms
+2022-06-09 01:37:56:   --> GET /admin.back 404 3ms -
+2022-06-09 01:38:01:   <-- GET /
+2022-06-09 01:38:01: GET / - 9ms
+2022-06-09 01:38:01:   --> GET / 200 11ms 185b
+2022-06-09 01:38:01:   <-- TRACE /Nessus1559440466.html
+2022-06-09 01:38:01: TRACE /Nessus1559440466.html - 1ms
+2022-06-09 01:38:01:   --> TRACE /Nessus1559440466.html 404 1ms -
+2022-06-09 01:38:02:   <-- GET /robots.txt
+2022-06-09 01:38:02: GET /robots.txt - 1ms
+2022-06-09 01:38:02:   --> GET /robots.txt 404 2ms -
+2022-06-09 01:38:03:   <-- GET /wls-wsat/CoordinatorPortType
+2022-06-09 01:38:03: GET /wls-wsat/CoordinatorPortType - 2ms
+2022-06-09 01:38:03:   --> GET /wls-wsat/CoordinatorPortType 404 5ms -
+2022-06-09 01:38:03:   <-- GET /servlet/SnoopServlet/
+2022-06-09 01:38:03: GET /servlet/SnoopServlet/ - 2ms
+2022-06-09 01:38:03:   --> GET /servlet/SnoopServlet/ 404 4ms -
+2022-06-09 01:38:04:   <-- GET /
+2022-06-09 01:38:04: GET / - 7ms
+2022-06-09 01:38:04:   --> GET / 200 9ms 185b
+2022-06-09 01:38:04:   <-- GET /hc/admin/login/
+2022-06-09 01:38:04: GET /hc/admin/login/ - 0ms
+2022-06-09 01:38:04:   --> GET /hc/admin/login/ 404 2ms -
+2022-06-09 01:38:05:   <-- GET /
+2022-06-09 01:38:05: GET / - 11ms
+2022-06-09 01:38:05:   --> GET / 200 14ms 185b
+2022-06-09 01:38:05:   <-- GET /
+2022-06-09 01:38:05: GET / - 15ms
+2022-06-09 01:38:05:   --> GET / 200 16ms 185b
+2022-06-09 01:38:06:   <-- GET /someunexistantantsutff.exe
+2022-06-09 01:38:06: GET /someunexistantantsutff.exe - 1ms
+2022-06-09 01:38:06:   --> GET /someunexistantantsutff.exe 404 1ms -
+2022-06-09 01:38:06:   <-- GET /
+2022-06-09 01:38:06: GET / - 6ms
+2022-06-09 01:38:06:   --> GET / 200 7ms 185b
+2022-06-09 01:38:07:   <-- GET /index.asp%5C
+2022-06-09 01:38:07: GET /index.asp%5C - 0ms
+2022-06-09 01:38:07:   --> GET /index.asp%5C 404 2ms -
+2022-06-09 01:38:07:   <-- GET /default.asp%5C
+2022-06-09 01:38:07: GET /default.asp%5C - 0ms
+2022-06-09 01:38:07:   --> GET /default.asp%5C 404 2ms -
+2022-06-09 01:38:07:   <-- GET /login.asp%5C
+2022-06-09 01:38:07: GET /login.asp%5C - 0ms
+2022-06-09 01:38:07:   --> GET /login.asp%5C 404 1ms -
+2022-06-09 01:38:07:   <-- GET /ldap/cgi-bin/ldacgi.exe?Action=Substitute&Template=../../../../../boot.ini&Sub=LocalePath&LocalePath=enus1252
+2022-06-09 01:38:07: GET /ldap/cgi-bin/ldacgi.exe?Action=Substitute&Template=../../../../../boot.ini&Sub=LocalePath&LocalePath=enus1252 - 0ms
+2022-06-09 01:38:07:   --> GET /ldap/cgi-bin/ldacgi.exe?Action=Substitute&Template=../../../../../boot.ini&Sub=LocalePath&LocalePath=enus1252 404 2ms -
+2022-06-09 01:38:08:   <-- GET /
+2022-06-09 01:38:08: GET / - 8ms
+2022-06-09 01:38:08:   --> GET / 200 9ms 185b
+2022-06-09 01:38:08:   <-- GET /brightmail/viewLogin.do
+2022-06-09 01:38:08: GET /brightmail/viewLogin.do - 0ms
+2022-06-09 01:38:08:   --> GET /brightmail/viewLogin.do 404 1ms -
+2022-06-09 01:38:09:   <-- GET /index.JSP
+2022-06-09 01:38:09: GET /index.JSP - 0ms
+2022-06-09 01:38:09:   --> GET /index.JSP 404 1ms -
+2022-06-09 01:38:09:   <-- GET /userportal/webpages/myaccount/login.jsp
+2022-06-09 01:38:09: GET /userportal/webpages/myaccount/login.jsp - 1ms
+2022-06-09 01:38:09:   --> GET /userportal/webpages/myaccount/login.jsp 404 4ms -
+2022-06-09 01:38:10:   <-- GET /
+2022-06-09 01:38:10: GET / - 8ms
+2022-06-09 01:38:10:   --> GET / 200 9ms 185b
+2022-06-09 01:38:11:   <-- GET /
+2022-06-09 01:38:11: GET / - 5ms
+2022-06-09 01:38:11:   --> GET / 200 6ms 185b
+2022-06-09 01:38:11:   <-- GET /forum/register.asp
+2022-06-09 01:38:11: GET /forum/register.asp - 1ms
+2022-06-09 01:38:11:   --> GET /forum/register.asp 404 1ms -
+2022-06-09 01:38:12:   <-- GET /
+2022-06-09 01:38:12: GET / - 8ms
+2022-06-09 01:38:12:   --> GET / 200 8ms 185b
+2022-06-09 01:38:13:   <-- GET /
+2022-06-09 01:38:13: GET / - 7ms
+2022-06-09 01:38:13:   --> GET / 200 8ms 185b
+2022-06-09 01:38:14:   <-- GET /index.html
+2022-06-09 01:38:14: GET /index.html - 0ms
+2022-06-09 01:38:14:   --> GET /index.html 404 2ms -
+2022-06-09 01:38:16:   <-- GET /
+2022-06-09 01:38:16: GET / - 6ms
+2022-06-09 01:38:16:   --> GET / 200 6ms 185b
+2022-06-09 01:38:17:   <-- GET /
+2022-06-09 01:38:17: GET / - 5ms
+2022-06-09 01:38:17:   --> GET / 200 7ms 185b
+2022-06-09 01:38:18:   <-- GET /?ho+{COMPLETE_VERSION}
+2022-06-09 01:38:18: GET /?ho+{COMPLETE_VERSION} - 4ms
+2022-06-09 01:38:18:   --> GET /?ho+{COMPLETE_VERSION} 200 5ms 185b
+2022-06-09 01:38:19:   <-- GET /search/results.stm
+2022-06-09 01:38:19: GET /search/results.stm - 0ms
+2022-06-09 01:38:19:   --> GET /search/results.stm 404 2ms -
+2022-06-09 01:38:20:   <-- GET /vncviewer.jar
+2022-06-09 01:38:20: GET /vncviewer.jar - 0ms
+2022-06-09 01:38:20:   --> GET /vncviewer.jar 404 1ms -
+2022-06-09 01:38:22:   <-- GET /
+2022-06-09 01:38:22: GET / - 6ms
+2022-06-09 01:38:22:   --> GET / 200 8ms 185b
+2022-06-09 01:38:24:   <-- GET /
+2022-06-09 01:38:24: GET / - 8ms
+2022-06-09 01:38:24:   --> GET / 200 8ms 185b
+2022-06-09 01:38:26:   <-- GET /html/en/index.htm
+2022-06-09 01:38:26: GET /html/en/index.htm - 0ms
+2022-06-09 01:38:26:   --> GET /html/en/index.htm 404 1ms -
+2022-06-09 01:38:27:   <-- GET /
+2022-06-09 01:38:27: GET / - 6ms
+2022-06-09 01:38:27:   --> GET / 200 7ms 185b
+2022-06-09 01:38:29:   <-- GET /
+2022-06-09 01:38:29: GET / - 6ms
+2022-06-09 01:38:29:   --> GET / 200 7ms 185b
+2022-06-09 01:38:30:   <-- GET /web-determinations/?CookieSet=true
+2022-06-09 01:38:30: GET /web-determinations/?CookieSet=true - 1ms
+2022-06-09 01:38:30:   --> GET /web-determinations/?CookieSet=true 404 2ms -
+2022-06-09 01:38:31:   <-- GET /portal/page/portal/Design_Time_PG/Welcome
+2022-06-09 01:38:31: GET /portal/page/portal/Design_Time_PG/Welcome - 0ms
+2022-06-09 01:38:31:   --> GET /portal/page/portal/Design_Time_PG/Welcome 404 1ms -
+2022-06-09 01:38:35:   <-- GET /portal/pls/portal/DEV4_PORTAL_DEMO.ORG_CHART.SHOW
+2022-06-09 01:38:35: GET /portal/pls/portal/DEV4_PORTAL_DEMO.ORG_CHART.SHOW - 0ms
+2022-06-09 01:38:35:   --> GET /portal/pls/portal/DEV4_PORTAL_DEMO.ORG_CHART.SHOW 404 1ms -
+2022-06-09 01:38:35:   <-- GET /pls/portal/DEV1_PORTAL_DEMO.ORG_CHART.SHOW
+2022-06-09 01:38:35: GET /pls/portal/DEV1_PORTAL_DEMO.ORG_CHART.SHOW - 1ms
+2022-06-09 01:38:35:   --> GET /pls/portal/DEV1_PORTAL_DEMO.ORG_CHART.SHOW 404 4ms -
+2022-06-09 01:38:35:   <-- GET /pls/portal/DEV9_PORTAL_DEMO.ORG_CHART.SHOW
+2022-06-09 01:38:35: GET /pls/portal/DEV9_PORTAL_DEMO.ORG_CHART.SHOW - 0ms
+2022-06-09 01:38:35:   --> GET /pls/portal/DEV9_PORTAL_DEMO.ORG_CHART.SHOW 404 1ms -
+2022-06-09 01:38:37:   <-- GET /dndirector
+2022-06-09 01:38:37: GET /dndirector - 0ms
+2022-06-09 01:38:37:   --> GET /dndirector 404 1ms -
+2022-06-09 01:38:38:   <-- GET /cgi-bin/luci
+2022-06-09 01:38:38: GET /cgi-bin/luci - 1ms
+2022-06-09 01:38:38:   --> GET /cgi-bin/luci 404 1ms -
+2022-06-09 01:38:40:   <-- GET /ofbizsetup/control/checkLogin
+2022-06-09 01:38:40: GET /ofbizsetup/control/checkLogin - 1ms
+2022-06-09 01:38:40:   --> GET /ofbizsetup/control/checkLogin 404 1ms -
+2022-06-09 01:38:44:   <-- GET /../../../../../../../../../../../../windows/win.ini
+2022-06-09 01:38:44:   xxx GET /../../../../../../../../../../../../windows/win.ini 403 2ms -
+2022-06-09 01:38:44:   <-- GET /../../../../../../../../../../../../winnt/win.ini
+2022-06-09 01:38:44:   xxx GET /../../../../../../../../../../../../winnt/win.ini 403 1ms -
+2022-06-09 01:38:45:   <-- GET /....\....\....\....\....\....\....\....\....\winnt\win.ini
+2022-06-09 01:38:45: GET /....\....\....\....\....\....\....\....\....\winnt\win.ini - 1ms
+2022-06-09 01:38:45:   --> GET /....\....\....\....\....\....\....\....\....\winnt\win.ini 404 1ms -
+2022-06-09 01:38:49:   <-- GET /gwadmin-console/login.jsp
+2022-06-09 01:38:49: GET /gwadmin-console/login.jsp - 0ms
+2022-06-09 01:38:49:   --> GET /gwadmin-console/login.jsp 404 1ms -
+2022-06-09 01:38:51:   <-- GET /
+2022-06-09 01:38:51: GET / - 4ms
+2022-06-09 01:38:51:   --> GET / 200 5ms 185b
+2022-06-09 01:38:52:   <-- GET /
+2022-06-09 01:38:52: GET / - 7ms
+2022-06-09 01:38:52:   --> GET / 200 7ms 185b
+2022-06-09 01:38:53:   <-- GET /
+2022-06-09 01:38:53: GET / - 6ms
+2022-06-09 01:38:53:   --> GET / 200 8ms 185b
+2022-06-09 01:38:53:   <-- GET //Help.action
+2022-06-09 01:38:53:   xxx GET //Help.action 400 0ms -
+2022-06-09 01:38:55:   <-- GET /uddipublic/default.aspx
+2022-06-09 01:38:55: GET /uddipublic/default.aspx - 0ms
+2022-06-09 01:38:55:   --> GET /uddipublic/default.aspx 404 1ms -
+2022-06-09 01:38:56:   <-- GET /index.exp
+2022-06-09 01:38:56: GET /index.exp - 1ms
+2022-06-09 01:38:56:   --> GET /index.exp 404 1ms -
+2022-06-09 01:38:57:   <-- GET /
+2022-06-09 01:38:57: GET / - 6ms
+2022-06-09 01:38:57:   --> GET / 200 8ms 185b
+2022-06-09 01:38:58:   <-- POST /servlet/GetProductVersion
+2022-06-09 01:38:58: POST /servlet/GetProductVersion - 1ms
+2022-06-09 01:38:58:   --> POST /servlet/GetProductVersion 404 1ms -
+2022-06-09 01:38:58:   <-- GET /
+2022-06-09 01:38:58: GET / - 7ms
+2022-06-09 01:38:58:   --> GET / 200 8ms 185b
+2022-06-09 01:38:59:   <-- POST /servlet/GetProductVersion
+2022-06-09 01:38:59: POST /servlet/GetProductVersion - 0ms
+2022-06-09 01:38:59:   --> POST /servlet/GetProductVersion 404 1ms -
+2022-06-09 01:38:59:   <-- GET /help/introduction/release-notes.html
+2022-06-09 01:38:59: GET /help/introduction/release-notes.html - 1ms
+2022-06-09 01:38:59:   --> GET /help/introduction/release-notes.html 404 1ms -
+2022-06-09 01:39:00:   <-- GET /
+2022-06-09 01:39:00: GET / - 9ms
+2022-06-09 01:39:00:   --> GET / 200 10ms 185b
+2022-06-09 01:39:01:   <-- GET /stcenter.nsf
+2022-06-09 01:39:01: GET /stcenter.nsf - 1ms
+2022-06-09 01:39:01:   --> GET /stcenter.nsf 404 2ms -
+2022-06-09 01:39:01:   <-- GET /
+2022-06-09 01:39:01: GET / - 8ms
+2022-06-09 01:39:01:   --> GET / 200 10ms 185b
+2022-06-09 01:39:03:   <-- GET /
+2022-06-09 01:39:03: GET / - 5ms
+2022-06-09 01:39:03:   --> GET / 200 5ms 185b
+2022-06-09 01:39:04:   <-- GET /web-console/ServerInfo.jsp%00
+2022-06-09 01:39:04:   xxx GET /web-console/ServerInfo.jsp%00 400 0ms -
+2022-06-09 01:39:05:   <-- GET /
+2022-06-09 01:39:05: GET / - 9ms
+2022-06-09 01:39:05:   --> GET / 200 9ms 185b
+2022-06-09 01:39:06:   <-- GET /horde/imp/status.php3
+2022-06-09 01:39:06: GET /horde/imp/status.php3 - 1ms
+2022-06-09 01:39:06:   --> GET /horde/imp/status.php3 404 1ms -
+2022-06-09 01:39:07:   <-- GET /
+2022-06-09 01:39:07: GET / - 4ms
+2022-06-09 01:39:07:   --> GET / 200 4ms 185b
+2022-06-09 01:39:07:   <-- GET /iissamples/issamples/oop/qfullhit.htw?CiWebHitsFile=/iissamples/issamples/oop/qfullhit.htw&CiRestriction=none&CiHiliteType=Full
+2022-06-09 01:39:07: GET /iissamples/issamples/oop/qfullhit.htw?CiWebHitsFile=/iissamples/issamples/oop/qfullhit.htw&CiRestriction=none&CiHiliteType=Full - 0ms
+2022-06-09 01:39:07:   --> GET /iissamples/issamples/oop/qfullhit.htw?CiWebHitsFile=/iissamples/issamples/oop/qfullhit.htw&CiRestriction=none&CiHiliteType=Full 404 2ms -
+2022-06-09 01:39:08:   <-- GET /iissamples/issamples/query.asp
+2022-06-09 01:39:08: GET /iissamples/issamples/query.asp - 1ms
+2022-06-09 01:39:08:   --> GET /iissamples/issamples/query.asp 404 1ms -
+2022-06-09 01:39:09:   <-- GET /iisadmpwd/aexp4b.htr
+2022-06-09 01:39:09: GET /iisadmpwd/aexp4b.htr - 1ms
+2022-06-09 01:39:09:   --> GET /iisadmpwd/aexp4b.htr 404 4ms -
+2022-06-09 01:39:10:   <-- GET /query.idq?CiTemplate=../../../../../winnt/win.ini
+2022-06-09 01:39:10: GET /query.idq?CiTemplate=../../../../../winnt/win.ini - 0ms
+2022-06-09 01:39:10:   --> GET /query.idq?CiTemplate=../../../../../winnt/win.ini 404 1ms -
+2022-06-09 01:39:11:   <-- GET /
+2022-06-09 01:39:11: GET / - 5ms
+2022-06-09 01:39:11:   --> GET / 200 6ms 185b
+2022-06-09 01:39:12:   <-- GET /
+2022-06-09 01:39:12: GET / - 5ms
+2022-06-09 01:39:12:   --> GET / 200 7ms 185b
+2022-06-09 01:39:13:   <-- GET /dp/login.xml
+2022-06-09 01:39:13: GET /dp/login.xml - 0ms
+2022-06-09 01:39:13:   --> GET /dp/login.xml 404 4ms -
+2022-06-09 01:39:50:   <-- GET /
+2022-06-09 01:39:50: GET / - 3ms
+2022-06-09 01:39:50:   --> GET / 200 4ms 185b
+2022-06-09 01:39:51:   <-- GET /SiteScope/
+2022-06-09 01:39:51: GET /SiteScope/ - 0ms
+2022-06-09 01:39:51:   --> GET /SiteScope/ 404 2ms -
+2022-06-09 01:39:53:   <-- GET /
+2022-06-09 01:39:53: GET / - 4ms
+2022-06-09 01:39:53:   --> GET / 200 4ms 185b
+2022-06-09 01:39:54:   <-- GET /portal
+2022-06-09 01:39:54: GET /portal - 0ms
+2022-06-09 01:39:54:   --> GET /portal 404 0ms -
+2022-06-09 01:39:56:   <-- GET /setup
+2022-06-09 01:39:56: GET /setup - 0ms
+2022-06-09 01:39:56:   --> GET /setup 404 1ms -
+2022-06-09 01:39:58:   <-- GET /
+2022-06-09 01:39:58: GET / - 3ms
+2022-06-09 01:39:58:   --> GET / 200 4ms 185b
+2022-06-09 01:39:59:   <-- GET /
+2022-06-09 01:39:59: GET / - 5ms
+2022-06-09 01:39:59:   --> GET / 200 6ms 185b
+2022-06-09 01:40:00:   <-- GET /
+2022-06-09 01:40:00: GET / - 5ms
+2022-06-09 01:40:00:   --> GET / 200 6ms 185b
+2022-06-09 01:40:01:   <-- GET /login.web
+2022-06-09 01:40:01: GET /login.web - 0ms
+2022-06-09 01:40:01:   --> GET /login.web 404 1ms -
+2022-06-09 01:40:02:   <-- GET /
+2022-06-09 01:40:02: GET / - 4ms
+2022-06-09 01:40:02:   --> GET / 200 4ms 185b
+2022-06-09 01:40:02:   <-- GET /
+2022-06-09 01:40:02: GET / - 6ms
+2022-06-09 01:40:02:   --> GET / 200 7ms 185b
+2022-06-09 01:40:03:   <-- GET /kjaiRY1G.ashx
+2022-06-09 01:40:03: GET /kjaiRY1G.ashx - 0ms
+2022-06-09 01:40:03:   --> GET /kjaiRY1G.ashx 404 1ms -
+2022-06-09 01:40:03:   <-- GET /SV8urBYY.asmx
+2022-06-09 01:40:03: GET /SV8urBYY.asmx - 0ms
+2022-06-09 01:40:03:   --> GET /SV8urBYY.asmx 404 1ms -
+2022-06-09 01:40:04:   <-- GET /
+2022-06-09 01:40:04: GET / - 4ms
+2022-06-09 01:40:04:   --> GET / 200 5ms 185b
+2022-06-09 01:40:04:   <-- GET /common/about.php
+2022-06-09 01:40:04: GET /common/about.php - 0ms
+2022-06-09 01:40:04:   --> GET /common/about.php 404 1ms -
+2022-06-09 01:40:04:   <-- GET /popuplargeimage.asp?strImageTag=<script>foo</script>
+2022-06-09 01:40:04: GET /popuplargeimage.asp?strImageTag=<script>foo</script> - 1ms
+2022-06-09 01:40:04:   --> GET /popuplargeimage.asp?strImageTag=<script>foo</script> 404 2ms -
+2022-06-09 01:40:06:   <-- GET /cmf/login
+2022-06-09 01:40:06: GET /cmf/login - 0ms
+2022-06-09 01:40:06:   --> GET /cmf/login 404 1ms -
+2022-06-09 01:40:07:   <-- GET /login
+2022-06-09 01:40:07: GET /login - 0ms
+2022-06-09 01:40:07:   --> GET /login 404 1ms -
+2022-06-09 01:40:10:   <-- GET /ControllerWeb/
+2022-06-09 01:40:10: GET /ControllerWeb/ - 0ms
+2022-06-09 01:40:10:   --> GET /ControllerWeb/ 404 1ms -
+2022-06-09 01:40:11:   <-- GET /
+2022-06-09 01:40:11: GET / - 4ms
+2022-06-09 01:40:11:   --> GET / 200 5ms 185b
+2022-06-09 01:40:13:   <-- GET /
+2022-06-09 01:40:13: GET / - 3ms
+2022-06-09 01:40:13:   --> GET / 200 5ms 185b
+2022-06-09 01:40:14:   <-- GET /CSCOnm/servlet/login/login.jsp
+2022-06-09 01:40:14: GET /CSCOnm/servlet/login/login.jsp - 0ms
+2022-06-09 01:40:14:   --> GET /CSCOnm/servlet/login/login.jsp 404 1ms -
+2022-06-09 01:40:15:   <-- GET /CSCOnm/servlet/login/login.jsp
+2022-06-09 01:40:15: GET /CSCOnm/servlet/login/login.jsp - 0ms
+2022-06-09 01:40:15:   --> GET /CSCOnm/servlet/login/login.jsp 404 1ms -
+2022-06-09 01:40:16:   <-- GET /
+2022-06-09 01:40:16: GET / - 4ms
+2022-06-09 01:40:16:   --> GET / 200 5ms 185b
+2022-06-09 01:40:17:   <-- GET /
+2022-06-09 01:40:17: GET / - 5ms
+2022-06-09 01:40:17:   --> GET / 200 6ms 185b
+2022-06-09 01:40:18:   <-- GET /
+2022-06-09 01:40:18: GET / - 4ms
+2022-06-09 01:40:18:   --> GET / 200 5ms 185b
+2022-06-09 01:41:06:   <-- GET /MM/
+2022-06-09 01:41:06: GET /MM/ - 0ms
+2022-06-09 01:41:06:   --> GET /MM/ 404 1ms -
+2022-06-09 01:41:07:   <-- GET /
+2022-06-09 01:41:07: GET / - 4ms
+2022-06-09 01:41:07:   --> GET / 200 4ms 185b
+2022-06-09 01:41:07:   <-- GET /
+2022-06-09 01:41:07: GET / - 4ms
+2022-06-09 01:41:07:   --> GET / 200 4ms 185b
+2022-06-09 01:41:08:   <-- GET /
+2022-06-09 01:41:08: GET / - 3ms
+2022-06-09 01:41:08:   --> GET / 200 5ms 185b
+2022-06-09 01:41:08:   <-- GET /..htaccess.swp
+2022-06-09 01:41:08: GET /..htaccess.swp - 0ms
+2022-06-09 01:41:08:   --> GET /..htaccess.swp 404 1ms -
+2022-06-09 01:41:09:   <-- GET /server-info
+2022-06-09 01:41:09: GET /server-info - 0ms
+2022-06-09 01:41:09:   --> GET /server-info 404 1ms -
+2022-06-09 01:41:09:   <-- GET /
+2022-06-09 01:41:09: GET / - 5ms
+2022-06-09 01:41:09:   --> GET / 200 6ms 185b
+2022-06-09 01:44:02:   <-- GET /
+2022-06-09 01:44:02: GET / - 6ms
+2022-06-09 01:44:02:   --> GET / 200 7ms 185b
+2022-06-09 01:44:04:   <-- GET /
+2022-06-09 01:44:04: GET / - 5ms
+2022-06-09 01:44:04:   --> GET / 200 5ms 185b
+2022-06-09 01:44:05:   <-- GET /system/login
+2022-06-09 01:44:05: GET /system/login - 0ms
+2022-06-09 01:44:05:   --> GET /system/login 404 1ms -
+2022-06-09 01:44:06:   <-- GET /this_page_should_not_exist.htm
+2022-06-09 01:44:06: GET /this_page_should_not_exist.htm - 0ms
+2022-06-09 01:44:06:   --> GET /this_page_should_not_exist.htm 404 2ms -
+2022-06-09 01:45:00:   <-- GET /
+2022-06-09 01:45:00: GET / - 4ms
+2022-06-09 01:45:00:   --> GET / 200 5ms 185b
+2022-06-09 01:45:01:   <-- GET /console/faces/com_sun_web_ui/help/helpwindow.jsp?windowTitle=%3c/title%3e%3cscript%3ealert(%27sun_java_web_console_helpwindow_xss.nasl%27)%3c/script%3e
+2022-06-09 01:45:01: GET /console/faces/com_sun_web_ui/help/helpwindow.jsp?windowTitle=%3c/title%3e%3cscript%3ealert(%27sun_java_web_console_helpwindow_xss.nasl%27)%3c/script%3e - 1ms
+2022-06-09 01:45:01:   --> GET /console/faces/com_sun_web_ui/help/helpwindow.jsp?windowTitle=%3c/title%3e%3cscript%3ealert(%27sun_java_web_console_helpwindow_xss.nasl%27)%3c/script%3e 404 3ms -
+2022-06-09 01:45:42:   <-- GET /
+2022-06-09 01:45:42: GET / - 5ms
+2022-06-09 01:45:42:   --> GET / 200 6ms 185b
+2022-06-09 01:45:43:   <-- GET /item.fts?href=%22%3E%3Cscript%3Ealert(%22ftgate_44002.nasl%22)%3C%2Fscript%3E%3B
+2022-06-09 01:45:43: GET /item.fts?href=%22%3E%3Cscript%3Ealert(%22ftgate_44002.nasl%22)%3C%2Fscript%3E%3B - 0ms
+2022-06-09 01:45:43:   --> GET /item.fts?href=%22%3E%3Cscript%3Ealert(%22ftgate_44002.nasl%22)%3C%2Fscript%3E%3B 404 0ms -
+2022-06-09 01:45:44:   <-- GET /altercast/AlterCast?op=%3cscript%3ealert(%22adobe_document_server_61.nasl%22)%3c%2fscript%3e
+2022-06-09 01:45:44: GET /altercast/AlterCast?op=%3cscript%3ealert(%22adobe_document_server_61.nasl%22)%3c%2fscript%3e - 0ms
+2022-06-09 01:45:44:   --> GET /altercast/AlterCast?op=%3cscript%3ealert(%22adobe_document_server_61.nasl%22)%3c%2fscript%3e 404 2ms -
+2022-06-09 01:45:55:   <-- GET /index.jsp
+2022-06-09 01:45:55: GET /index.jsp - 1ms
+2022-06-09 01:45:55:   --> GET /index.jsp 404 2ms -
+2022-06-09 01:45:56:   <-- GET /
+2022-06-09 01:45:56: GET / - 4ms
+2022-06-09 01:45:56:   --> GET / 200 5ms 185b
+2022-06-09 01:46:04: chrome 占比 0%
+2022-06-09 01:47:34:   <-- GET /
+2022-06-09 01:47:34: GET / - 228ms
+2022-06-09 01:47:34:   --> GET / 200 235ms 185b
+2022-06-09 01:48:12:   <-- GET /
+2022-06-09 01:48:12: GET / - 11ms
+2022-06-09 01:48:12:   --> GET / 200 13ms 185b
+2022-06-09 01:48:12:   <-- GET /1654710493-mongoose_trailing_slash_disclosure.nasl
+2022-06-09 01:48:12: GET /1654710493-mongoose_trailing_slash_disclosure.nasl - 1ms
+2022-06-09 01:48:12:   --> GET /1654710493-mongoose_trailing_slash_disclosure.nasl 404 4ms -
+2022-06-09 01:48:44:   <-- PUT /3HAUum41Bt44
+2022-06-09 01:48:44: PUT /3HAUum41Bt44 - 1ms
+2022-06-09 01:48:44:   --> PUT /3HAUum41Bt44 404 2ms -
+2022-06-09 01:49:31:   <-- GET /
+2022-06-09 01:49:31: GET / - 9ms
+2022-06-09 01:49:31:   --> GET / 200 10ms 185b
+2022-06-09 01:50:32:   <-- GET /
+2022-06-09 01:50:32: GET / - 9ms
+2022-06-09 01:50:32:   --> GET / 200 11ms 185b
+2022-06-09 01:50:32:   <-- GET /dev/
+2022-06-09 01:50:32: GET /dev/ - 0ms
+2022-06-09 01:50:32:   --> GET /dev/ 404 2ms -
+2022-06-09 01:51:30:   <-- GET /
+2022-06-09 01:51:30: GET / - 8ms
+2022-06-09 01:51:30:   --> GET / 200 10ms 185b
+2022-06-09 01:51:31:   <-- GET /note.txt?F_notini=&T_note=&nomentreprise=blah&filenote=../../windows/win.ini
+2022-06-09 01:51:31: GET /note.txt?F_notini=&T_note=&nomentreprise=blah&filenote=../../windows/win.ini - 0ms
+2022-06-09 01:51:31:   --> GET /note.txt?F_notini=&T_note=&nomentreprise=blah&filenote=../../windows/win.ini 404 3ms -
+2022-06-09 01:51:33:   <-- GET /
+2022-06-09 01:51:33: GET / - 13ms
+2022-06-09 01:51:33:   --> GET / 200 14ms 185b
+2022-06-09 01:52:18:   <-- GET /
+2022-06-09 01:52:18: GET / - 15ms
+2022-06-09 01:52:18:   --> GET / 200 20ms 185b
+2022-06-09 09:46:07: chrome 占比 0%
+2022-06-09 17:46:08: chrome 占比 0%
+2022-06-10 01:46:10: chrome 占比 0%
+2022-06-10 09:46:12: chrome 占比 0%
+2022-06-10 17:47:17: chrome 占比 0%

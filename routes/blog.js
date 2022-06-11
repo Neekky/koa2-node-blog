@@ -12,7 +12,6 @@ const { SuccessModel, ErrorModel } = require("../model/resModel");
 router.prefix("/api/blog");
 
 router.get("/list", async function (ctx, next) {
-  throw new Error("测试出错")
   if (ctx.query.isadmin) {
     const loginCheckRes = await loginCheck(ctx);
     if (loginCheckRes) {
